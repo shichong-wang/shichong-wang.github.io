@@ -23,4 +23,4 @@ theme = "diary"
 
 [params]
 author = "Shichong Wang"
-year = 2026
+since = "2026"

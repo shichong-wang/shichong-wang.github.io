@@ -6,8 +6,23 @@
     <description>Recent content on Shichong Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Test Post</title>
+        <link>http://localhost:1313/posts/test-post/</link>
+        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/test-post/</guid>
+        <description>Shichong Wang http://localhost:1313/posts/test-post/ -&lt;p&gt;Hello! This is a test post.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;Heading&lt;/h2&gt;
+&lt;p&gt;Some text, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code&gt;code&lt;/code&gt;, and a &lt;a href=&#34;http://localhost:1313/&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+- http://localhost:1313/posts/test-post/ - </description>
+        </item>
     
     
   </channel>
