@@ -20,3 +20,7 @@ theme = "diary"
     name = "About"
     url = "/about/"
     weight = 4
+
+[params]
+author = "Shichong Wang"
+since = 2026
