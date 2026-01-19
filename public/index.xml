@@ -13,19 +13,6 @@
     
     
         <item>
-        <title>About</title>
-        <link>http://localhost:1313/about/about/</link>
-        <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/about/about/</guid>
-        <description>Shichong Wang http://localhost:1313/about/about/ -&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;
-&lt;p&gt;Hi!&lt;/p&gt;
-- http://localhost:1313/about/about/ - </description>
-        </item>
-    
-    
-    
-        <item>
         <title>Ethical Approaches to Animal Welfare in Biomedical Research</title>
         <link>http://localhost:1313/posts/test-post/</link>
         <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
