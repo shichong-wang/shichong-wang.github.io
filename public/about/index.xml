@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Shichong Wang</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Shichong Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethical Approaches to Animal Welfare in Biomedical Research</title>
+      <link>http://localhost:1313/about/test-post/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/test-post/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Earlier this year, I became qualified to work with animals in a lab after completing my Animal Care and Use Training, which included learning rodent euthanasia. In this procedure, rodents are placed in a chamber and exposed to a controlled flow of carbon dioxide. The gradual increase in carbon dioxide displaces the oxygen, leading to unconsciousness with minimal pain, and ultimately death when the concentration is high enough. A secondary method, such as cervical dislocation, bilateral thoracotomy, or decapitation, is then employed to ensure death.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
