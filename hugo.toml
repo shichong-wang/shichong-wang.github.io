@@ -1,6 +1,6 @@
 baseURL = 'https://shichong-wang.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Shichong Wang'
 theme = "diary"
 
 [menu]
